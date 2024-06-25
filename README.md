@@ -4,21 +4,21 @@
 
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://abdinasir-warsame.vercel.app/)**
+- 🙋‍♂️ I am Abdinasir Warsame, a dedicated and proficient Full Stack Developer specializing in the MERN stack. I believe that the most effective way to learn is through hands-on building and development, a philosophy reflected in my comprehensive portfolio. My projects have allowed me to hone my skills and gain practical experience. I am adept at utilizing a range of technologies, including React.js, Node.js, Express.js, and MongoDB, to build robust and scalable applications. While my main focus is on the MERN stack, I have also developed projects using PHP and MySQL. I am committed to delivering high-quality, user-friendly solutions that meet the needs of end-users and stakeholders.
 
-- 🔭 I’m currently working on `Exciting MERN Stack Projects`.
+- 🔭  I’m currently working on `Exciting MERN Stack Projects`.
 
-- 🌱 I’m always learning and improving my skills in the `MERN Stack`.
+- 🌱 I’m always learning and improving my skills in the MERN stack. `exploring new libraries, tools, and best practices to enhance my development process`.
 
-- 👯 I’m looking to collaborate on `Development Projects`.
+- 👯 I’m looking to collaborate on full stack development projects that challenge me to `contribute to meaningful, impactful solutions`.
 
-- 🤔 I’m open to help with `Web Development Challenges`.
+- 🤔 I’m open to help with web development challenges, particularly those involving ` JavaScript, React.js, Node.js, and MongoDB`.
 
-- 💬 Ask me about anything tech-related, especially `JavaScript` and `MERN Stack`.
+- 💬 Ask me about anything tech-related, especially  `JavaScript, React.js, Node.js, Express.js, and the MERN stack`.
 
-- 👨‍💻 Life Hack: Keep exploring new technologies and share your knowledge with the community.
+ ## `👨‍💻 Life Hack: Keep building to learn, and share your knowledge with the community. Engaging in projects is the most effective path to mastering new skills.`
 
-- ⚡ Fun fact: I love playing games in my free time.
+
 ## 🛠️ Technologies and Tools I use:
 
 <p>
