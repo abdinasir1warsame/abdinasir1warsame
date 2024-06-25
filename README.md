@@ -16,7 +16,8 @@
 
 - 💬 Ask me about anything tech-related, especially  `JavaScript, React.js, Node.js, Express.js, and the MERN stack`.
 
- ## `👨‍💻 Life Hack: Keep building to learn, and share your knowledge with the community. Engaging in projects is the most effective path to mastering new skills.`
+ ## 👨‍💻 Life Hack: 
+ ### ` Keep building to learn, and share your knowledge with the community. Engaging in projects is the most effective path to mastering new skills.`
 
 
 ## 🛠️ Technologies and Tools I use:
