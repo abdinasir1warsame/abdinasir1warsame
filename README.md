@@ -21,7 +21,7 @@
 <br/>
 
  ## 👨‍💻 Life Hack: 
- ### ` Keep building to learn, and share your knowledge with the community. Engaging in projects is the most effective path to mastering new skills.`
+ ### ` Keep building to learn, and share your knowledge with the community. Engaging in building is the most effective path to learning.`
 
 <br/>
 
